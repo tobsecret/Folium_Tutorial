@@ -1,0 +1,7 @@
+conda create -n FoliumTutorial python=3.5
+conda install -c scitools shapely=1.5.13
+conda install pandas
+conda install jupyter
+conda install seaborn
+conda install folium -c conda-forge
+conda install vincent
